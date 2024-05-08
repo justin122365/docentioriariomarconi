@@ -15,7 +15,7 @@
 > ```
 > 2. Assicurati di avere nella **main directory** il file `OrarioTabellaGlobale.csv`
 >
-> ## Per testare il programma:
+## Per testare il programma:
 > 1. clona la repo o scarica la repo nel tuo dispositivo
 > 2. apri la cartella che hai clonato\scaricato in un interprete (consigliato: "visual studio code")
 > 3. avviare il file **`main.py`**, che automaticamente accederà al file **`moduli\Funzioni.py`** e creerà una cartella **`FileCreati`** dove finiranno i file che verranno creati.
