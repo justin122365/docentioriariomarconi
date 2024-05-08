@@ -15,6 +15,13 @@
 > ```
 > 2. Assicurati di avere nella **main directory** il file `OrarioTabellaGlobale.csv`
 >
-> Per avviare il programma avviare il file **`main.py`**, che automaticamente accederà al file **`moduli\Funzioni.py`** e creerà una cartella **`FileCreati`** dove finiranno i file che verranno creati.
+> ## Per testare il programma:
+> 1. clona la repo o scarica la repo nel tuo dispositivo
+> 2. apri la cartella che hai clonato\scaricato in un interprete (consigliato: "visual studio code")
+> 3. avviare il file **`main.py`**, che automaticamente accederà al file **`moduli\Funzioni.py`** e creerà una cartella **`FileCreati`** dove finiranno i file che verranno creati.
+> 4. scegli l'operazione da eseguire e visualizza il risultato nella cartella "filecreati" il file creato avra il nome del docente\aula in base all'operazione che hai scelto, questo per renderlo più ordinato possibile.
+> 
+>
+>
 
 **BUONA ESECUZIONE!**
